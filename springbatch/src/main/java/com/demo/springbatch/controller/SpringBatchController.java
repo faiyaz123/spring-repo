@@ -37,6 +37,6 @@ public class SpringBatchController {
     }
 
     public void test(){
-
+      System.out.println("Test ..............");
     }
 }
