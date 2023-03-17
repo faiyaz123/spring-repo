@@ -35,4 +35,8 @@ public class SpringBatchController {
 
         return "Job Launched Successfully!";
     }
+
+    public void test(){
+
+    }
 }
